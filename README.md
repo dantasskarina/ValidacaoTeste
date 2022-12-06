@@ -1,4 +1,4 @@
-<h1 align="center">Pong JS</h1>
+<h3 align="center">Pong JS</h1>
 <p align="justify">Pong foi o primeiro jogo lucrativo da história, dando origem a um novo setor da indústria. 
 A ideia era de um console ligado a um monitor, movido contra uma bola.</p>
 
